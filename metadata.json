@@ -1,0 +1,6 @@
+{
+  "name": "RUDRA STUDY LIFE PRO",
+  "description": "Smart Daily Routine and Exam Preparation Planner for Competitive Aspirants",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
